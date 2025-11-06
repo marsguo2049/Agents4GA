@@ -168,7 +168,7 @@ python agents4ga.py --tune --max-iterations 100
 
 ## 📄 许可证 | License
 
-MIT License
+Apache-2.0 license
 
 ---
 
