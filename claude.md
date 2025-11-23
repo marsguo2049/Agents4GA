@@ -14,16 +14,16 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    GA构建Agents系统                           │
+│                    GA构建Agents系统                          │
 ├─────────────────────────────────────────────────────────────┤
-│  🤖 ModelAnalysisAgent     →  🤖 InterfaceDesignAgent       │
-│      (模型分析专家)               (接口设计专家)                │
-│           ↓                           ↓                      │
-│  🤖 AlgorithmImplAgent    →  🤖 IntegrationTestAgent        │
-│      (算法实现专家)               (集成测试专家)                │
-│           ↓                           ↓                      │
+│  🤖 ModelAnalysisAgent     →  🤖 InterfaceDesignAgent      │
+│      (模型分析专家)               (接口设计专家)              │
+│           ↓                           ↓                     │
+│  🤖 AlgorithmImplAgent    →  🤖 IntegrationTestAgent       │
+│      (算法实现专家)               (集成测试专家)              │
+│           ↓                           ↓                     │
 │  🤖 OptimizationAgent     →  🤖 DocumentationAgent         │
-│      (性能优化专家)               (文档生成专家)                │
+│      (性能优化专家)               (文档生成专家)              │
 └─────────────────────────────────────────────────────────────┘
                               │
                     👤 用户交互界面
@@ -687,5 +687,6 @@ class GABuilderSystem:
 **核心价值**：将复杂的GA开发过程自动化和智能化，让优化算法的开发变得更加高效、可靠和普及。无论是学术研究还是工业应用，都能从中获得巨大的价值。
 
 ---
+
 
 *通过系统化的方法，让遗传算法的开发和部署变得简单、可靠、高效。*
